@@ -1,2 +1,1 @@
-# HACampaigns
-Tabletop RPG campaigns for Hafestran Rose Magazine.
+Readme to come soon.
